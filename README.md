@@ -1,4 +1,5 @@
-Python code for clustering data using expectation maximization algorithm.
+<h1>Expectation-Maximization-Clustering</h1>
+<h3>Python code for clustering data using expectation maximization algorithm.</h3>
 
 Here are the results: 
 
