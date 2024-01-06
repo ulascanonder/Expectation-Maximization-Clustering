@@ -6,7 +6,7 @@ import math
 
 data = np.genfromtxt("data_set.csv", delimiter = ",")  
 centroids = np.genfromtxt("initial_centroids.csv", delimiter = ",")
-K = 5 #K determines the number of clusters formed. We'll for 5 clusters for this data. 
+K = 5 #K determines the number of clusters formed. We'll form 5 clusters for this data. 
 N = len(data[:,0])
 
 def initiate_memberships(centroids, x):
