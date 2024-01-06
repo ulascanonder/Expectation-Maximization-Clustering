@@ -115,6 +115,7 @@ for i in range(100):
 
 #%% Visualisation and means
 
+#These are the clusters
 cluster1 = data[memberships == 0]
 cluster2 = data[memberships == 1]
 cluster3 = data[memberships == 2]
